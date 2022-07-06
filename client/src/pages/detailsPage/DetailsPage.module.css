@@ -1,0 +1,8 @@
+.card {
+  background-color: #f2f2f2;
+  padding: 1rem;
+  cursor: pointer;
+  width: 500px;
+  max-width: 60%;
+  margin-top: 6rem;
+}
